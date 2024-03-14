@@ -15,8 +15,6 @@ class MainActivity : AppCompatActivity() {
     lateinit var btnFinish: Button
     lateinit var btnUniversity: Button
 
-
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
